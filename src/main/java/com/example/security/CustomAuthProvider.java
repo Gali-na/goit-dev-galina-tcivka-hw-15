@@ -1,4 +1,4 @@
-package com.example;
+package com.example.security;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationProvider;
 import org.springframework.security.authentication.BadCredentialsException;

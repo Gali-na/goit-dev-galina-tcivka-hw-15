@@ -1,5 +1,6 @@
-package com.example;
+package com.example.security;
 
+import com.example.security.CustomAuthProvider;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
