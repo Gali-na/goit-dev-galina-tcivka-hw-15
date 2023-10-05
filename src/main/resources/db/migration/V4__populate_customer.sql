@@ -1,0 +1,1 @@
+INSERT INTO customer (login, password_customer) VALUES ('user', 'jdbcDefault');

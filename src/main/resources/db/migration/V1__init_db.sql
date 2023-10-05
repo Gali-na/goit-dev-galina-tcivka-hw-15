@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS note (
+id IDENTITY PRIMARY KEY,
+title VARCHAR(100),
+content_note VARCHAR(500)
+);
